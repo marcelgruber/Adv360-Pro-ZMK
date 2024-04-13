@@ -1,1 +1,10 @@
-[]
+[
+	{
+		"code": "&kp LCMD `",
+		"name": "&kp LCMD `",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	}
+]
